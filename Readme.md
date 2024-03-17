@@ -1,7 +1,3 @@
-Certainly! Below is a template for your `README.md` file:
-
----
-
 # Movie Recommender System using Content-Based Filtering
 
 ## Overview
