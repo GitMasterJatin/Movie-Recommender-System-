@@ -23,16 +23,13 @@ The dataset used in this project is sourced from Kaggle. You can find the datase
 5. Follow the instructions provided in the notebook to interact with the recommender system and obtain movie recommendations.
 
 ## Files
-- `Movie_Recommender_System.ipynb`: Jupyter Notebook containing the implementation of the movie recommender system.
+- `Project1.ipynb`: Jupyter Notebook containing the implementation of the movie recommender system.
 - `README.md`: This file providing an overview of the project and instructions for usage.
--  
+- 'app.py'
 
 
 ## Author
 - Jatin Sharma
 
 Feel free to reach out with any questions or suggestions!
-
 ---
-
-Replace `[link_to_dataset]` with the actual link to the Kaggle dataset. Make sure to fill in your name under the Author section. Additionally, if you have any additional files or resources in your project, you can mention them under the Files section.
